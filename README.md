@@ -4,12 +4,6 @@ This repository is developed and maintained by **Agent Elite**
 
 Welcome to the **Image Library**! This repository is designed to store, organize, and manage image assets efficiently.
 
-## Features
-
-- **Organized Structure**: Images are categorized for easy navigation.
-- **High-Quality Assets**: All images are optimized for quality and performance.
-- **Easy Integration**: Ready-to-use assets for your projects.
-
 ## Folder Structure
 
 ```
